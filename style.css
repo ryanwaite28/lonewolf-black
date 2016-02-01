@@ -59,6 +59,15 @@
 	    vertical-align: middle;
 }
 
+.icon {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 50px;
+	width: 50px;
+	
+}
+
 /* grand-container */
 
 .grand-container {
