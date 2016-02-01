@@ -107,6 +107,15 @@
 		margin-bottom: 30px;
 	}
 	
+	.m-frame-two{
+		border: 0;
+		display: block;
+		margin: auto;
+		width: 95%;
+		height: 80vh;
+		margin-bottom: 20px;
+	}
+	
 }
 
 @media only screen and (max-width: 530px) {
