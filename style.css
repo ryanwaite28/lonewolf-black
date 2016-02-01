@@ -203,17 +203,18 @@
 	border: 0;
 	display: block;
 	margin: auto;
-	width: 50%;
-	height: 85vh;
+	width: 60%;
+	height: 88vh;
 	margin-bottom: 30px;
 }
 
-.frame {
-	width: 85%;
-	height: 850px;
-    margin: auto;
+.m-frame-two{
 	border: 0;
-	margin-bottom: 10px;
+	display: block;
+	margin: auto;
+	width: 85%;
+	height: 80vh;
+	margin-bottom: 20px;
 }
 
 .city-theme {
@@ -298,9 +299,10 @@
 		border: 0;
 		display: block;
 		margin: auto;
-		width: 70%;
-		height: 80vh;
-		margin-bottom: 30px;
+		width: 60%;
+		height: 88vh;
+		margin-bottom: 0px;
 	}
+	
 	
 }
