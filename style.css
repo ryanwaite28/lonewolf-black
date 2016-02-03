@@ -3,6 +3,7 @@
 .top-div {
 	border-bottom: 1px solid black;
 	height: 51px;
+	background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
 }
 
 .main-text {
