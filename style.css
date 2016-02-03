@@ -125,7 +125,7 @@
 
 .social-row, .events-row, .booking-row {
 	border-bottom: 1px solid black;
-	height: 40vh;
+	min-height: 40vh;
         padding: 5%;
 }
 
